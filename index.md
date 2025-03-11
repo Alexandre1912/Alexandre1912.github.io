@@ -8,7 +8,7 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Alexandre Niquet
 Elève ingénieur en [préciser sa spécialité]
 
 
@@ -18,5 +18,5 @@ Disponible XX mois à partir de Date
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
+
 
