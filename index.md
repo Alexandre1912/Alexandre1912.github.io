@@ -9,14 +9,13 @@ hero_image_ratio: is-1by1
 ---
 
 # Alexandre Niquet
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en première année
 
 
-Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[alexandre.niquet[at]etu.unilasalle.com](mailto:alexandre.niquet@etu.unilasalle.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+
 
 
 
