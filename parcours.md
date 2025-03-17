@@ -61,6 +61,4 @@ Jeu Vidéo
 * Jeu compétitif 
 * Jeu de création
 
-Loisirs 1
-* Description 
-* Description 
+
