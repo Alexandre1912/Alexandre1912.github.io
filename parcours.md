@@ -8,59 +8,58 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+UniLasalle Amiens
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+Elève ingénieur en première année
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac technologique, Lycée Paul Langevin à Beauvais
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2023` Projet d’étude – carport solaire pour vélo et trotinette
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 4 étudiants_
+
+*modélisation du carport solaire
+*choix des matériaux pour la prise au vent
+*modélisation sécurité des véhicules
+*code sécurité des véhicules
+
+`2024` Projet d’étude – analysateur de la qualiter de l'air
+
+_Réalisé en équipe de 3 étudiants_
+* Faire le code du détecteur de la qualiter de l'air et l'affichage des LED 
+* Faire le code pour afficher l'heure et l'affichage des LED
+* Application pour téléphone et bluetooth
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` Architecte DPLG Sandrine TELLIER, Ailly-sur-Noye
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – stage d'observation_
+* visite de chantiers 
+* Partitipation à des activités de construction
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : A2
+* LV2 Espagnol : A1
+* LV3 Japonais : A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Language C
+* Python
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Jeu Vidéo
+* Jeu compétitif 
+* Jeu de création
 
 Loisirs 1
 * Description 
