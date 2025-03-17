@@ -14,7 +14,7 @@ UniLasalle Amiens
 Elève ingénieur en première année
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
+`2024`
 Bac technologique, Lycée Paul Langevin à Beauvais
 
 ## Expériences
