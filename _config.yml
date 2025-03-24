@@ -2,7 +2,7 @@ lang: fr
 title: Alexandre NIQUET
 description: Template pour la création d'un repo type CV
 theme: bulma-clean-theme
-
+$primary : '#8849f6'
 url: https://github.com/gorinje/craft-the-cv2
 
 force_theme: light
